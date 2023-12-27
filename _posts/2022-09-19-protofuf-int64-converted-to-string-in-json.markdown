@@ -3,6 +3,7 @@ layout: post
 title:  "Int64 Protobuf is converted to string in JSON, Why?"
 date:   2022-09-19 00:06:36 +0800
 categories: protobuf
+permalink: int64-protobuf-is-converted-to-string-in-json-why/
 ---
 
 Today I learn that int64 protobuf is converted to string when we encode it to JSON. This cause some issue on the javascript client side when we assume that the value we receive already in int64 instead of string.

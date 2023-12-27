@@ -3,6 +3,7 @@ layout: post
 title:  "Get Unique Values of a CSV Column Using Bash Command"
 date:   2018-08-10 00:06:36 +0800
 categories: bash
+permalink: get-unique-values-of-a-csv-column-using-bash-command
 ---
 
 Example input CSV file. The file is named <b>transaction.csv</b>
