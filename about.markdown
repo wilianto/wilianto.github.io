@@ -11,3 +11,7 @@ This blog is my digital diary, where I dive into topics like distributed systems
 Once in a while, I might toss in some non-tech stuff too.
 
 Cheers!
+
+<div>
+    {%- include social.html -%}
+</div>
